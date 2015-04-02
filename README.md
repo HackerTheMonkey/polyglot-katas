@@ -12,3 +12,8 @@ The purpose of this project is to explore various aspects of a given set of prog
 8. C++
 
 _Note:_ Other programming langauges can be added where it seems appropriate to do so.
+
+
+###### Problems/Katas to be solved/implemented
+1. [Counting Code Lines](http://codekata.com/kata/kata13-counting-code-lines)
+2. _more to be added later on_
