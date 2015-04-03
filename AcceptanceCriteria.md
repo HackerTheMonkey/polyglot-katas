@@ -16,10 +16,10 @@ _note_: The assumption made here is that the input file is a *valid* Java source
 - A line that starts with a multiple-line comment start sequence **_should not be_** counted as a Java line of code.
 - A line that's preceded by a multiple-line comment start sequence **_should not be_** counted as a Java line of code.
 - A line that starts with a multiple-line end sequence followed by whitespace **_should not be_** counted as a Java line of code.
-- A line that starts with a multiple-line end sequence followed Java source code **_should be_** counted as a Java line of code. 
+- A line that starts with a multiple-line end sequence followed by Java statement(s) **_should be_** counted as a Java line of code. 
 
 ###### Java source code
-- A line that contains Java keywords outside comments should be counted as a Java line of code. _Happy path_
+- A line that contains Java statement(s) outside comments should be counted as a Java line of code. _Happy path_
 
 
 ###### Legend
