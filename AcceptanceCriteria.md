@@ -3,7 +3,7 @@
 ### Scenarios
 
 ###### Empty lines
-- A line contains only whitespace _should not be_ counted as a Java line of code.
+- A line contains only whitespace _should not be_** counted as a Java line of code.
 - An empty line _should not be_ counted as a Java line of code.
 
 ###### Single line comments (i.e. //)
