@@ -10,6 +10,8 @@ The purpose of this project is to explore various aspects of a given set of prog
 6. Javascript
 7. GO
 8. C++
+9. Swift
+10. Clojure
 
 _Note:_ Other programming langauges can be added where it seems appropriate to do so.
 
