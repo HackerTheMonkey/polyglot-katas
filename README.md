@@ -17,5 +17,5 @@ _Note:_ Other programming langauges can be added where it seems appropriate to d
 
 
 ###### Problems/Katas to be solved/implemented
-1. [Counting Code Lines](http://codekata.com/kata/kata13-counting-code-lines)
+1. [Counting Code Lines](http://codekata.com/kata/kata13-counting-code-lines) [AC](./katas/CountingCodeLinesAC.md)
 2. _more to be added later on_
