@@ -18,5 +18,6 @@ _Note:_ Other programming langauges can be added where it seems appropriate to d
 
 ###### Problems/Katas to be solved/implemented
 Kata/Problem | Acceptance Criteria
+--- | ---
 [Counting Code Lines](http://codekata.com/kata/kata13-counting-code-lines) | [here](./katas/CountingCodeLinesAC.md)
-_more to be added later on_
+`_more to be added later on_` |
