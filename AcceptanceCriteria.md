@@ -18,6 +18,10 @@ _note_: The assumption made here is that the input file is a *valid* Java source
 - A line that starts with a multiple-line end sequence followed by whitespace **_should not be_** counted as a Java line of code.
 - A line that starts with a multiple-line end sequence followed by Java statement(s) **_should be_** counted as a Java line of code. 
 
+###### Comments within Java Strings
+- Single line comments within Java String literals should be ignored.
+- Multiple-line comments within Java String literals should be ignored.
+
 ###### Java source code
 - A line that contains Java statement(s) outside comments should be counted as a Java line of code. _Happy path_
 
