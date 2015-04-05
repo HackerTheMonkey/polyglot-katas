@@ -1,6 +1,6 @@
 #### [counting code lines](http://codekata.com/kata/kata13-counting-code-lines/)
 
-_NOTE_: The assumption made here is that the input file is a *valid* Java source file. Below are the main requirements, any other _implicit_ edge cases (i.e. cases that should _indirectly_ be addressed by one of the main requirements) should be tested in-isolation when the code is implemented in the form of unit/integration tests. These are the main scenarions required to acheive. Any edge cases that are implicitly covered by one or more of the below items need not to be mentoined explicitly but rather tested in isolation.
+_NOTE_: The assumption made here is that the input file is a *valid* Java source file. Below are the main requirements, any other _implicit_ edge cases (i.e. cases that should _indirectly_ be addressed by one of the main requirements) should be tested in-isolation when the code is implemented in the form of unit/integration tests. These are the main scenarions required to acheive. Any edge cases that are implicitly covered by one or more of the below items need not to be mentoined explicitly but rather should be tested in-isolation in a unit/integration tests during the implementaion phase.
 
 ### Scenarios
 
