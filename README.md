@@ -13,6 +13,7 @@ The purpose of this project is to explore various aspects of a given set of prog
 9. Swift
 10. Clojure
 11. Pony
+12. Kotlin
 
 _Note:_ Other programming langauges can be added where it seems appropriate to do so.
 
